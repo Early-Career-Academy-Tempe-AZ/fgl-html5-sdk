@@ -1,7 +1,7 @@
 /**
  * FGL SDK - Implement this into your game!
  *
- * Version 1.4.1
+ * Version 1.4.2
  *
  * NOTE: This is an implementation testing version of our SDK. When you
  * upload your game to FGL.com, this SDK will be replaced with our real
@@ -524,7 +524,7 @@ function FGLImplementationTestingSDK() {
    * @returns {string} URI or data URI of branding logo
    */
   self.getBrandingLogo = function() {
-    return 'fgl-branding-placeholder.png';
+    return "https://sites.mpstatic.com/html5/sdks/fgl-branding-placeholder.png";
   };
 
   /**

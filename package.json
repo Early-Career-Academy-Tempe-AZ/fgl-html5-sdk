@@ -1,10 +1,11 @@
 {
   "name": "fgl-sdk",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "description": "FGL SDK for HTML5",
   "author": "FGL.com",
   "homepage": "http://fgl.com/html5",
   "license": "MIT",
+  "main": "fgl.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/fglmobile/fgl-html5-sdk.git"

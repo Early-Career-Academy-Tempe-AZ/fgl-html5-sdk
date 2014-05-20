@@ -1,7 +1,8 @@
 {
   "name": "fgl-sdk",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "description": "FGL SDK for HTML5",
+  "main": "fgl.js",
   "keywords": [
     "html5",
     "fgl",
