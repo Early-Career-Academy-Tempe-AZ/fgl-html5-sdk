@@ -1,0 +1,22 @@
+{
+  "name": "fgl-sdk",
+  "version": "1.4.1",
+  "description": "FGL SDK for HTML5",
+  "keywords": [
+    "html5",
+    "fgl",
+    "sdk"
+  ],
+  "authors": [
+    "FGL.com"
+  ],
+  "license": "MIT",
+  "homepage": "http://fgl.com/html5",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
