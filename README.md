@@ -22,7 +22,9 @@ First you need to include the fgl.js file in your project. It can be included in
 The title of the index.html file should be set to your game's title; it will be used when your game is submitted to FGL.
 
 ### index.html:
-`<html>
+
+```html
+<html>
 <head>
     <title>My Game Title</title>
 </head>
@@ -36,7 +38,8 @@ The title of the index.html file should be set to your game's title; it will be 
         myGame.start();
     </script>
 </body>
-</html>`
+</html>
+```
 
 
 ## Handling Screen Resolution
